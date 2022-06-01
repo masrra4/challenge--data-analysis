@@ -47,8 +47,9 @@ quantity variables are number of rooms,price,area.
 quality variables are property,status,swimming pool,furnished,location .
 8-Percentage of missing values per column ?in my data there is no missing data or null data.
 9-Are there any outliers? If yes, which ones and why?yes ,like number of rooms 400 .it is unlogic and it requires to clean it 
-Which variables would you delete and why ?if you mean cells ,all the outlierss required to delete it 
+10- Which variables would you delete and why ?if you mean cells ,all the outlierss required to delete it 
 and if you mean columns ,I think kitchen type,garden surface  
-In your opinion, which 5 variables are the most important and why?the 5 most important values are price ,number of rooms
+11-In your opinion, which 5 variables are the most important and why?the 5 most important values are price ,number of rooms
 ,location ,area,property.
- 
+12- In your opinion, which model of machine learning could solve the task of predicting the sales? Random forest according to google and multiple linear regression according to content
+because I should use two features like number of rooms and property for example to predict the price (target)
